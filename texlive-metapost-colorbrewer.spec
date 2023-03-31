@@ -1,6 +1,6 @@
 Name:		texlive-metapost-colorbrewer
 Version:	48753
-Release:	1
+Release:	2
 Summary:	An implementation of the colorbrewer2.org colours for MetaPost
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/metapost-colorbrewer
