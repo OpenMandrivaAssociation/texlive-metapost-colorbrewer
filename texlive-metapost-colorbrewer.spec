@@ -3,7 +3,7 @@ Version:	48753
 Release:	2
 Summary:	An implementation of the colorbrewer2.org colours for MetaPost
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/metapost-colorbrewer
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/metapost-colorbrewer
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/metapost-colorbrewer.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/metapost-colorbrewer.doc.r%{version}.tar.xz
